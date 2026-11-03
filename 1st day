@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First GitHub Webpage</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    h1 {
+      color: #0366d6;
+    }
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h1>Hello, World! 👋</h1>
+    <p>Welcome to my website hosted on GitHub.</p>
+    
+    <h2>About Me</h2>
+    <p>I am learning web development and building my first project repository.</p>
+    
+    <h2>My Links</h2>
+    <ul>
+      <li><a href="https://github.com/AdhyanChettri-boop" target="_blank">My GitHub Profile</a></li>
+      <li><a href="#">Project 1</a></li>
+    </ul>
+  </div>
+
+</body>
+</html>
